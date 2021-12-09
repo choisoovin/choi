@@ -159,6 +159,8 @@ fieldset {
   display:absolute;
   text-align:left;
   display: flex;
+  font-family: 'GFS Didot', serif;
+
 }
 .hero {
   height: 100vh;
