@@ -44,7 +44,7 @@ font-family: 'Space Grotesk', sans-serif;, serif; -apple-system, BlinkMacSystemF
 
     .info-container{
       font-family: 'GFS Didot', serif;
-      font-size:16px;
+      font-size:16.5px;
        display: inline-block;
        vertical-align: top;
        padding: 0 200px 100px 200px;
@@ -56,6 +56,7 @@ font-family: 'Space Grotesk', sans-serif;, serif; -apple-system, BlinkMacSystemF
     .info-container p{
         padding: 0;
         margin: 0 0 10px;
+
     }
     .info-container h1{
       font-family: 'GFS Didot', serif;
@@ -153,7 +154,7 @@ fieldset {
 }
 
 #description2{
-  font-size:18px;
+  font-size:17px;
   padding:15px;
   margin-left:300px;
   display:absolute;
