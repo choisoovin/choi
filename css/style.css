@@ -20,6 +20,8 @@ font-family: 'Space Grotesk', sans-serif;, serif; -apple-system, BlinkMacSystemF
 #asimage{
   float: left;
   padding:20px;
+  width: 30%;
+  height: auto;
 }
   body:before {
     content: "";
@@ -74,6 +76,12 @@ font-family: 'Space Grotesk', sans-serif;, serif; -apple-system, BlinkMacSystemF
       width: 40%;
       height: auto;
     }
+    .responsive3 {
+      width: 70%;
+      height: auto;
+      margin-bottom: 0px;
+
+    }
 
 
 
@@ -105,21 +113,21 @@ fieldset {
 
 #hightlighted{
   font-size: 25px;
-  font-family: 'Oswald', sans-serif;
+
 
   text-align: center;
   position:relative;
 }
 #hightlighted2{
   font-size: 40px;
-  font-family: 'Oswald', sans-serif;
+
 
   text-align: center;
   position:relative;
 }
 #hightlighted3{
   font-size: 25px;
-  font-family: 'Oswald', sans-serif;
+
   text-align: center;
   position:relative;
 
